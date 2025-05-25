@@ -1,4 +1,4 @@
-package day26Maps;
+package day26MapsExceptions;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -87,7 +87,7 @@ public class Maps02 {
 
         System.out.println("-------------------------");
 
-        String emoji = "¬¬"
+
 
 
 
